@@ -1,4 +1,4 @@
-# Instances-used-in-paper-submit-to-IJPR
+# Project description
 
 This file contains all 45 instances used in this paper
 
